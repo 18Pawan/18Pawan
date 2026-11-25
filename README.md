@@ -54,6 +54,15 @@ A real-time system monitoring application built using Java and Spring Boot.
 - Deployed using Docker and Render.
 
 🔗 [GitHub Repository](https://github.com/18Pawan/system-monitor-dashboard)  
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18Pawan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18Pawan&layout=compact&theme=tokyonight)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=18Pawan&theme=tokyonight)
 🌐 [Live Demo](https://system-monitor-3tc3.onrender.com/)
 
 ### 📫 Connect With Me
